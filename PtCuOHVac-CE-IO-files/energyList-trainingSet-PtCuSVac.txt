@@ -1,0 +1,398 @@
+empty.vasp	0
+empty.vasp	0
+Pt.vasp	-5.4101415
+Pt.vasp	-5.4101415
+Cu.vasp	-3.2773616
+Cu.vasp	-3.2773616
+#
+#
+#9-layer Pt(111) slabs, benchmark
+9-layer-slab-36.0-cleanslab.vasp	-190.468748
+9-layer-slab-36.0-cleanslab-2S.vasp	-209.73366
+9-layer-slab-36.0-cleanslab-4S.vasp	-228.69262
+9-layer-slab-27.0-cleanslab-2S.vasp	-162.19323
+9-layer-slab-29.7-cleanslab-PtCu.vasp -.17971174E+03
+9-layer-slab-29.7-cleanslab-2S-top4-Pt3-Pt3-PtCu.vasp -.19904901E+03
+9-layer-slab-29.7-cleanslab-2S-top1-Pt2Cu-Pt2Cu-PtCu.vasp -.19858333E+03
+#
+#
+# pure Pt nanoparticles
+Pt147-3-truncated-clean.vasp	-702.90791
+Pt147-3-truncated-remove-100-middle-1-clean.vasp	-697.55938
+Pt147-3-truncated-remove-vertex-1-clean.vasp	-697.85428
+Pt201-2-truncated-clean.vasp	-985.96352
+Pt201-2-truncated-remove-100-middle-1-clean.vasp	-980.32104
+Pt201-2-truncated-remove-vertex-1-clean.vasp	-980.40531
+Pt225-clean.vasp	-1109.7284
+Pt225-vertex-2OH.vasp	-1130.3402
+Pt225-vertex-3OH.vasp	-1140.653
+Pt225-vertex-4OH.vasp	-1150.9792
+Pt225-vertex-5OH.vasp	-1161.2562
+Pt225-vertex-6OH.vasp	-1171.5617
+111-NP-step-Pt216-clean.vasp		-1062.4098
+111-NP-step-Pt216-S2-sym.vasp -1082.3723
+111-NP-step-Pt216-S2-close.vasp -1082.4688
+111-NP-step-Pt220-clean.vasp		-1083.6851
+111-NP-step-Pt220-S2-middle.vasp	-1103.7308
+111-NP-step-Pt223-clean.vasp		-1099.424
+111-NP-step-Pt223-S2-close.vasp		-1119.6918
+111-NP-step-Pt223-S2-sym.vasp		-1119.8498
+adatom-Pt226-Pt-adatom-fcc1-clean.vasp	-1113.9867
+adatom-Pt226-Pt-adatom-fcc3-clean.vasp	-1113.9783
+adatom-Pt226-Pt-adatom-fcc5-clean.vasp	-1114.1846
+adatom-Pt226-Pt-adatom-fcc8-clean.vasp	-1114.2176
+Pt231-0-truncated-clean.vasp	-1140.6198
+Pt231-0-truncated-remove-edge-1-clean.vasp	-1134.6786
+Pt231-0-truncated-remove-edge-3-clean.vasp	-1134.9885
+Pt231-0-truncated-remove-face-3-clean.vasp	-1134.7296
+Pt231-0-truncated-remove-vertex-1-clean.vasp	-1135.3411
+Pt225-edge-12-face-123-vertex-1-6OH.vasp	-1169.332
+226-Pt226-Pt-vertex-1-clean.vasp	-1114.7342
+#
+#
+# KMC-determined OH adsorbed pattern at high coverages
+KMC-gs-Pt225-10S.vasp	-1212.6691
+KMC-gs-Pt225-24S.vasp	-1355.6902
+KMC-gs-Pt225-42S.vasp	-1537.973
+KMC-gs-Pt225-60S.vasp	-1721.0348
+KMC-gs-Pt225-61S.vasp	-1730.6539
+KMC-gs-Pt225-62S.vasp	-1740.2944
+KMC-gs-Pt225-70S.vasp	-1816.8717
+KMC-gs-Pt225-72S.vasp	-1835.9622
+KMC-gs-Pt225-76S.vasp	-1875.6177
+# KMC-determined OH adsorbed pattern at high coverages based on Pt182Cu43
+KMC-gs-Pt182Cu43-24OH.vasp	-1293.146
+KMC-gs-Pt182Cu43-26OH.vasp	-1312.7495
+KMC-gs-Pt182Cu43-28OH.vasp	-1332.7642
+KMC-gs-Pt182Cu43-34OH.vasp	-1392.4753
+KMC-gs-Pt182Cu43-50OH.vasp	-1552.2357
+KMC-gs-Pt182Cu43-62OH.vasp	-1671.0278
+KMC-gs-Pt182Cu43-64OH.vasp	-1689.1254
+KMC-gs-Pt178Cu47-10S.vasp -.11420419E+04
+KMC-gs-Pt178Cu47-24S.vasp -.12832147E+04
+KMC-gs-Pt178Cu47-42S.vasp -.14633298E+04
+#
+#
+#PtCu-Ptskin 24OH-structures
+afterDis-Pt146Cu24.vasp -.78458553E+03
+randOH-afterDis-Pt146Cu24-S6.vasp -.84382879E+03
+afterDis-Pt157Cu20.vasp -.82839411E+03
+randOH-afterDis-Pt157Cu20-S6.vasp -.88815377E+03
+randOH-afterDis-Pt157Cu20-S19.vasp -.10186615E+04
+afterDis-Pt169Cu18.vasp -.88303235E+03
+randOH-afterDis-Pt169Cu18-S5.vasp -.93302748E+03
+randOH-afterDis-Pt169Cu18-S10.vasp -.98340540E+03
+afterDis-Pt180Cu19.vasp -.94611430E+03
+randOH-afterDis-Pt180Cu19-S5.vasp -.99580548E+03
+randOH-afterDis-Pt180Cu19-S13.vasp -.10750650E+04 
+afterDis-Pt186Cu17.vasp -.97064489E+03
+randOH-afterDis-Pt186Cu17-S9.vasp -.10587045E+04
+afterDis-Pt202Cu13.vasp -.10393430E+04
+randOH-afterDis-Pt202Cu13-S4.vasp -.10786956E+04
+MMC-Pt180Cu45.vasp -.10464945E+04
+randOH-MMC-Pt180Cu45-S12.vasp -.11643401E+04
+randOH-MMC-Pt180Cu45-S31.vasp -.13444803E+04
+MMC-Pt191Cu34.vasp -.10635772E+04
+randOH-MMC-Pt191Cu34-S7.vasp -.11327105E+04
+randOH-MMC-Pt191Cu34-S18.vasp -.12382878E+04
+PtNiCu-groundState.178.0.47-20161127.vasp     -.10425639E+04
+randOH-PtNiCu-groundState.178.0.47-20161127-S7.vasp -.11114663E+04
+randOH-PtNiCu-groundState.178.0.47-20161127-S21.vasp -.12458466E+04
+PtCu-groundstate147.133.14.vasp -.68707358E+03
+PtCu-groundstate147.133.14-S13.vasp -.81652219E+03
+PtCu-groundstate201.181.20.vasp -.95977589E+03
+PtCu-groundstate201.181.20-S16.vasp -.11161888E+04
+PtCu-random.groundstate147.133.14.vasp -.68085763E+03
+PtCu-random.groundstate147.133.14-S10.vasp -.78060497E+03
+PtCu-random.groundstate201.181.20.vasp -.95235801E+03
+PtCu-random.groundstate201.181.20-S14.vasp -.10902043E+04
+#
+#PtCu particles
+#clean structures PtCu
+PtCuO-O-removed-random.12.71.77.2.1900.vasp -.58718561E+03
+PtCuO-O-removed-random.29.72.80.4.1896.vasp -.60731140E+03
+PtCuO-O-removed-random.19.82.61.4.1905.vasp -.54100208E+03
+PtCuO-O-removed-random.30.73.59.5.1916.vasp -.50334971E+03
+PtCuO-O-removed-random.26.71.57.1.1920.vasp -.48662108E+03
+PtCuO-O-removed-random.28.75.48.4.1925.vasp -.45125343E+03
+PtCuO-O-removed-random.3.71.86.7.1891.vasp -.63252336E+03
+PtCuO-O-removed-random.7.40.68.3.1940.vasp -.44322524E+03
+PtCuO-O-removed-random.24.95.65.4.1888.vasp -.60297665E+03
+PtCuO-O-removed-random.37.98.22.2.1928.vasp -.38783106E+03
+PtCuO-O-removed-random.10.90.85.2.1873.vasp -.68969125E+03
+PtCu-random.65.27.91.1930.vasp -.51804710E+03
+PtCu-random.20.67.93.1888.vasp -.65221447E+03
+PtCu-random.166.26.78.1944.vasp -.44897211E+03
+PtCu-random.148.38.78.1932.vasp -.48650038E+03
+PtCu-random.22.54.91.1903.vasp -.60398290E+03
+PtCu-random.13.48.80.1920.vasp -.53250052E+03
+PtCu-random.169.38.92.1918.vasp -.55810057E+03
+PtCu-random.177.29.87.1932.vasp -.50545472E+03
+PtCu-random.176.19.82.1947.vasp -.44496123E+03
+PtCu-random.64.27.90.1931.vasp -.50947737E+03
+PtCu-random.53.29.91.1928.vasp -.52328923E+03
+PtCu-random.44.30.89.1929.vasp -.51625889E+03
+PtCu-random.70.29.89.1930.vasp -.51194233E+03
+PtCu-random.28.26.85.1937.vasp -.48373042E+03
+PtCu-random.96.25.89.1934.vasp -.49507437E+03
+PtCu-random.86.11.98.1939.vasp -.50144115E+03
+PtCuO-O-removed-random.63.91.82.3.1875.vasp -.67840279E+03
+PtCuO-O-removed-random.42.97.66.2.1885.vasp -.61024296E+03
+PtCuO-O-removed-random.167.92.63.4.1893.vasp -.58188662E+03
+PtCuO-O-removed-random.126.86.55.3.1907.vasp -.52101722E+03
+PtCuO-O-removed-random.191.60.45.3.1943.vasp -.39164866E+03
+PtCuO-O-removed-random.166.80.48.5.1920.vasp -.46991986E+03
+PtCuO-O-removed-random.57.87.89.4.1872.vasp -.69746910E+03
+PtCuO-O-removed-random.154.79.42.1.1927.vasp -.43426152E+03
+PtCuO-O-removed-random.58.92.69.1.1887.vasp -.61104921E+03
+PtCuO-O-removed-random.55.70.51.4.1927.vasp -.45253320E+03
+PtCuO-O-removed-random.53.56.76.6.1916.vasp -.53352846E+03
+PtCuO-O-removed-random.45.66.56.2.1926.vasp -.46612922E+03
+PtCuO-O-removed-random.105.96.73.5.1879.vasp -.64181803E+03
+PtCuO-O-removed-random.112.71.55.2.1922.vasp -.47725570E+03
+PtCuO-O-removed-random.72.79.95.4.1874.vasp -.70415577E+03
+PtCuO-O-removed-random.47.46.82.6.1920.vasp -.53184497E+03
+PtCuO-O-removed-random.132.82.25.3.1941.vasp -.35575246E+03
+PtCuO-O-removed-random.109.37.64.7.1947.vasp -.41360986E+03
+PtCuO-O-removed-random.65.43.77.1.1928.vasp -.49703816E+03
+PtCuO-O-removed-random.174.46.67.4.1935.vasp -.45729903E+03
+PtCuO-O-removed-random.185.36.71.3.1941.vasp -.44626264E+03
+PtCuO-O-removed-random.180.56.68.7.1924.vasp -.49366234E+03
+PtCuO-O-removed-random.88.27.73.1.1948.vasp -.42930911E+03
+PtCuO-O-removed-random.73.61.78.4.1909.vasp -.55932390E+03
+PtCuO-O-removed-random.118.88.93.4.1867.vasp -.72280152E+03
+PtCuO-O-removed-random.142.67.91.6.1890.vasp -.64531379E+03
+PtCuO-O-removed-random.161.53.92.1.1903.vasp -.60459971E+03
+PtCuO-O-removed-random.90.44.96.6.1908.vasp -.59694002E+03
+PtCuO-O-removed-random.115.56.98.5.1894.vasp -.64513727E+03
+PtCuO-O-removed-random.164.74.97.2.1877.vasp -.69751819E+03
+PtCuO-O-removed-random.94.43.77.1.1928.vasp -.49691921E+03
+PtCu-random.195.73.90.1885.vasp -.65625667E+03
+PtCu-random.81.49.75.1924.vasp -.50314939E+03
+PtCu-random.67.79.73.1896.vasp -.59332427E+03
+PtCu-random.18.51.64.1933.vasp -.45468092E+03
+PtCu-random.134.77.93.1878.vasp -.69033347E+03
+PtCu-random.73.76.85.1887.vasp -.64193544E+03
+PtCu-random.76.85.82.1881.vasp -.66062230E+03
+PtCu-random.37.56.44.1948.vasp -.37769968E+03
+PtCu-random.194.44.67.1937.vasp -.45059904E+03
+PtCu-random.47.81.70.1897.vasp -.58602624E+03
+PtCu-random.197.31.83.1934.vasp -.48815417E+03
+PtCu-random.131.95.85.1868.vasp -.70058667E+03
+PtCu-random.91.48.74.1926.vasp -.49704617E+03
+PtCu-random.116.92.91.1865.vasp -.72772912E+03
+PtCu-random.112.59.65.1924.vasp -.49127920E+03
+PtCu-random.23.94.79.1875.vasp -.67301679E+03
+PtCu-random.190.49.91.1908.vasp -.58585819E+03
+PtCu-random.192.95.93.1860.vasp -.73773250E+03
+PtCu-random.198.86.78.1884.vasp -.63543521E+03
+PtCu-random.147.76.94.1878.vasp -.69050341E+03
+PtCu-random.165.73.94.1881.vasp -.68103418E+03
+PtCu-random.135.68.81.1899.vasp -.59963183E+03
+PtCu-random.143.55.97.1896.vasp -.63604855E+03
+PtCu-random.182.85.76.1887.vasp -.62791037E+03
+PtCuO-O-removed-random.102.81.79.10.1888.vasp -.63011013E+03
+PtCu-random.193.66.42.1940.vasp -.39758333E+03
+PtCu-random.159.69.42.1937.vasp -.40703103E+03
+PtCu-random.163.71.58.1919.vasp -.49416608E+03
+PtCu-random.77.50.62.1936.vasp -.44654988E+03
+PtCu-random.196.72.38.1938.vasp -.39117415E+03
+PtCu-random.150.78.41.1929.vasp -.42890921E+03
+PtCu-random.14.52.46.1950.vasp -.37375995E+03
+PtCu-random.42.96.63.1889.vasp -.59884427E+03
+PtCu-random.184.81.64.1903.vasp -.55242429E+03
+PtCu-random.189.68.41.1939.vasp -.39875043E+03
+PtCu-random.63.70.52.1926.vasp -.45369964E+03
+PtCu-random.80.67.46.1935.vasp -.41800814E+03
+PtCu-random.104.90.41.1917.vasp -.46586206E+03
+PtCu-random.164.74.56.1918.vasp -.49319351E+03
+PtCu-random.145.88.40.1920.vasp -.45197478E+03
+PtCu-random.93.47.95.1906.vasp -.60381645E+03
+PtCu-random.82.83.56.1909.vasp -.51810477E+03
+PtCu-random.66.78.71.1899.vasp -.58033050E+03
+PtCu-random.61.58.68.1922.vasp -.49608027E+03
+PtCu-random.110.90.84.1874.vasp -.67240290E+03
+PtCu-random.158.84.50.1914.vasp -.49447526E+03
+PtCu-random.12.66.65.1917.vasp -.51308985E+03
+PtCuO-O-removed-random.101.86.93.8.1869.vasp -.71746169E+03
+PtCu-random.123.95.81.1872.vasp -.68041167E+03
+PtCu-random.3.61.89.1898.vasp -.61558447E+03
+PtCu-random.33.61.39.1948.vasp -.36423268E+03
+PtCu-random.75.92.40.1916.vasp -.46523623E+03
+PtCu-random.34.93.42.1913.vasp -.47832835E+03
+PtCu-random.126.30.71.1947.vasp -.42790091E+03
+PtCu-random.118.41.83.1924.vasp -.52119999E+03
+PtCu-random.101.35.85.1928.vasp -.51132580E+03
+PtCu-random.9.87.45.1916.vasp -.47590889E+03
+PtCu-random.59.87.31.1930.vasp -.40391720E+03
+PtCu-random.4.83.24.1941.vasp -.35424585E+03
+PtCu-random.11.98.72.1878.vasp -.64770370E+03
+PtCu-random.137.89.22.1937.vasp -.36256282E+03
+PtCu-random.107.97.62.1889.vasp -.59742291E+03
+PtCu-random.6.75.29.1944.vasp -.35723671E+03
+PtCu-random.153.7.96.1945.vasp -.47648498E+03
+PtCuO-O-removed-random.100.87.82.8.1879.vasp      -.66235860E+03
+PtCu-random.60.97.65.1886.vasp                                   -.60401179E+03
+#
+#
+#special structures PtCu
+PtNiCu-purePt-pureCu-pureCu.vasp       -.96549854E+03
+PtNiCu-2nd-layer-Cu3Pt-manual-Pt178Cu47.vasp       -.10407168E+04
+PtNiCu-2nd-layer-Cu3Pt-manual-Pt174Cu51.vasp      -.10344757E+04
+PtNiCu-purePt-pureCu-purePt.vasp -.10094052E+04
+PtNiCu-groundState.178.0.47-20161127.vasp     -.10425639E+04
+PtNiCu-purePt-purePt-pureCu.vasp                       -.10764610E+04 
+PtNiCu-purePt-LCu-MPt-RCu.vasp                         -.10102646E+04 
+PtNiCu-2nd-layer-pureCu-manual-Pt159Cu66.vasp  -.10093979E+04
+PtNiCu-purePt-LCu-MCu-RPt.vasp               -.10197053E+04 
+PtNiCu-groundState.160.0.41-20161129.vasp   -.92953081E+03
+PtNiCu-purePt-LCu-MPt-RPt.vasp                -.10617870E+04 
+PtNiCu-2nd-layer-pureCu-manual-Pt158Cu67.vasp           -.10079365E+04 
+PtNiCu-unFixedShape-groundState.105.0.35-20170107.vasp       -.62680915E+03 
+PtNiCu-groundState.105.0.35-20161129.vasp               -.62702183E+03 
+PtNiCu-groundState.122.0.25-20161129.vasp             -.67153746E+03 
+PtCu-groundstate.204.21-0-2024-3-24.vasp -.10828931E+04
+PtCu-groundstate.110.37-0-2024-3-24.vasp -.65058634E+03
+PtCu-groundstate.151.50-0-2024-3-24.vasp -.91393283E+03
+PtCu-groundstate.169.56-0-2024-3-24.vasp -.10280849E+04
+PtCu-groundstate98.127.vasp -.89377553E+03
+PtCu-groundstate138.87.vasp -.97275022E+03
+PtCu-groundstate154.71.vasp -.10031456E+04
+PtCu-groundstate183.42.vasp -.10507390E+04
+PtCu-groundstate171.54.vasp -.10313665E+04
+PtCu-groundstate158.67.vasp -.10103457E+04
+PtCu-unfixedshape.groundstate158.67.vasp -.10081045E+04
+PtCu-unfixedshape.groundstate183.42.vasp -.10504396E+04
+PtCu-unfixedshape.groundstate138.87.vasp -.97052983E+03
+PtCu-unfixedshape.groundstate98.127.vasp -.89202087E+03
+PtCu-unFixedShape-T=0.0-gs.110.115.vasp -.91851873E+03
+PtCu-unFixedShape-T=0.0-gs.171.54.vasp -.10307875E+04
+PtCu-unFixedShape-T=0.0-gs.154.71.vasp -.10004790E+04
+PtCu-unFixedShape-T=0.0-gs.134.91.vasp -.96523310E+03
+PtCu-groundstate192.33-2024-4-12.vasp -.10641381E+04
+PtCu-groundstate90.135-2024-4-12.vasp -.87712873E+03
+PtCu-groundstate154.71-2024-4-12.vasp -.10031041E+04
+PtCu-groundstate110.115-2024-4-12.vasp -.91737058E+03
+PtCu-groundstate171.54-2024-4-12.vasp -.10317838E+04
+PtCu-groundstate158.67-2024-4-12.vasp -.10104570E+04
+PtCu-groungstate140.85-2024-4-27.vasp -.97646661E+03
+PtCu-groungstate57.168-2024-4-27.vasp -.80089279E+03
+PtCu-groungstate95.130-2024-4-27.vasp -.88791379E+03
+PtCu-groungstate87.138-2024-4-27.vasp -.87013643E+03
+PtCu-gs.176.225.6.41.178.noMo.vasp -.10400616E+04
+PtCu-groundstate182Cu43.vasp  -.10496165E+04
+#
+#0.1ML based on PtCu clean particles 50
+fixOHML=0.1-PtCuO-O-removed-random.100.87.82.8.1879-repPtWithS.2.vasp -.68180927E+03
+fixOHML=0.1-PtCuO-O-removed-random.29.72.80.4.1896-repPtWithS.2.vasp -.62701813E+03
+fixOHML=0.1-PtCuO-O-removed-random.12.71.77.2.1900-repPtWithS.2.vasp -.60693897E+03
+fixOHML=0.1-PtCuO-O-removed-random.65.43.77.1.1928-repPtWithS.3.vasp -.52656747E+03
+fixOHML=0.1-PtCuO-O-removed-random.3.71.86.7.1891-repPtWithS.3.vasp -.66235320E+03
+fixOHML=0.1-PtCu-random.44.30.89.1929-repPtWithS.5.vasp -.56748852E+03
+fixOHML=0.1-PtCu-random.11.98.72.1878-repPtWithS.2.vasp -.66724446E+03
+fixOHML=0.1-PtCuO-O-removed-random.180.56.68.7.1924-repPtWithS.2.vasp -.51348268E+03
+fixOHML=0.1-PtCuO-O-removed-random.47.46.82.6.1920-repPtWithS.3.vasp -.56225308E+03
+fixOHML=0.1-PtCuO-O-removed-random.7.40.68.3.1940-repPtWithS.3.vasp -.47275236E+03
+fixOHML=0.1-PtCuO-O-removed-random.88.27.73.1.1948-repPtWithS.4.vasp -.46940617E+03
+fixOHML=0.1-PtCu-random.3.61.89.1898-repPtWithS.4.vasp -.65546699E+03
+fixOHML=0.1-PtCu-random.64.27.90.1931-repPtWithS.4.vasp -.54947363E+03
+fixOHML=0.1-PtCu-random.22.54.91.1903-repPtWithS.5.vasp -.65415207E+03
+fixOHML=0.1-PtCuO-O-removed-random.161.53.92.1.1903-repPtWithS.3.vasp -.63472310E+03
+#
+#
+#0.2ML based on PtCu clean particles
+fixOHML=0.2-PtCuO-O-removed-random.53.56.76.6.1916-repPtWithS.5.vasp -.58323521E+03
+fixOHML=0.2-PtCuO-O-removed-random.58.92.69.1.1887-repPtWithS.3.vasp -.64115465E+03
+fixOHML=0.2-PtCuO-O-removed-random.73.61.78.4.1909-repPtWithS.4.vasp -.59929179E+03
+fixOHML=0.2-PtCuO-O-removed-random.24.95.65.4.1888-repPtWithS.2.vasp -.62303627E+03
+fixOHML=0.2-PtCu-random.82.83.56.1909-repPtWithS.4.vasp -.55709407E+03
+fixOHML=0.2-PtCu-random.118.41.83.1924-repPtWithS.9.vasp -.61231672E+03
+fixOHML=0.2-PtCuO-O-removed-random.63.91.82.3.1875-repPtWithS.4.vasp -.71827720E+03
+fixOHML=0.2-PtCuO-O-removed-random.57.87.89.4.1872-repPtWithS.4.vasp -.73751206E+03
+fixOHML=0.2-PtCu-random.93.47.95.1906-repPtWithS.11.vasp -.71399022E+03
+fixOHML=0.2-PtCu-random.110.90.84.1874-repPtWithS.4.vasp -.71214388E+03
+#
+#
+#0.3ML based on PtCu clean particles
+fixOHML=0.3-PtCuO-O-removed-random.102.81.79.10.1888-repPtWithS.6.vasp -.68980047E+03
+fixOHML=0.3-PtCuO-O-removed-random.109.37.64.7.1947-repPtWithS.9.vasp -.50383304E+03
+fixOHML=0.3-PtCu-random.164.74.56.1918-repPtWithS.8.vasp -.57279043E+03
+fixOHML=0.3-PtCuO-O-removed-random.142.67.91.6.1890-repPtWithS.8.vasp -.72510001E+03
+fixOHML=0.3-PtCuO-O-removed-random.126.86.55.3.1907-repPtWithS.3.vasp -.55105361E+03
+fixOHML=0.3-PtCu-random.150.78.41.1929-repPtWithS.4.vasp -.46854979E+03
+fixOHML=0.3-PtCuO-O-removed-random.115.56.98.5.1894-repPtWithS.10.vasp -.74523986E+03
+fixOHML=0.3-PtCu-random.145.88.40.1920-repPtWithS.3.vasp -.48162205E+03
+fixOHML=0.3-PtCuO-O-removed-random.101.86.93.8.1869-repPtWithS.8.vasp -.79626534E+03
+fixOHML=0.3-PtCu-random.158.84.50.1914-repPtWithS.6.vasp -.55326592E+03
+#
+#
+#0.4ML based on PtCu clean particles
+fixOHML=0.4-PtCuO-O-removed-random.164.74.97.2.1877-repPtWithS.9.vasp -.78748301E+03
+fixOHML=0.4-PtCuO-O-removed-random.167.92.63.4.1893-repPtWithS.6.vasp -.64169816E+03
+fixOHML=0.4-PtCuO-O-removed-random.118.88.93.4.1867-repPtWithS.9.vasp -.81229422E+03
+fixOHML=0.4-PtCu-random.184.81.64.1903-repPtWithS.10.vasp -.65341126E+03
+fixOHML=0.4-PtCu-random.176.19.82.1947-repPtWithS.19.vasp -.63918596E+03
+#
+#
+#0.5ML based on PtCu clean particles
+fixOHML=0.5-PtCuO-O-removed-random.174.46.67.4.1935-repPtWithS.12.vasp -.57785603E+03
+fixOHML=0.5-PtCuO-O-removed-random.191.60.45.3.1943-repPtWithS.5.vasp -.44143047E+03
+fixOHML=0.5-PtCuO-O-removed-random.185.36.71.3.1941-repPtWithS.12.vasp -.56755399E+03
+fixOHML=0.5-PtCu-random.193.66.42.1940-repPtWithS.11.vasp -.50784148E+03
+fixOHML=0.5-PtCu-random.198.86.78.1884-repPtWithS.9.vasp -.72547428E+03
+#
+#
+#0.6ML based on PtCu clean particles
+fixOHML=0.6-PtCu-random.80.67.46.1935-repPtWithS.12.vasp -.53740910E+03
+fixOHML=0.6-PtCuO-O-removed-random.94.43.77.1.1928-repPtWithS.18.vasp  -.67907937E+03
+fixOHML=0.6-PtCuO-O-removed-random.161.53.92.1.1903-repPtWithS.11.vasp -.71344336E+03
+#
+#
+#0.6666667ML based on PtCu clean particles
+fixOHML=0.666667-PtCuO-O-removed-random.72.79.95.4.1874-repPtWithS.20.vasp -.90441269E+03
+fixOHML=0.666667-PtCu-random.134.77.93.1878-repPtWithS.26.vasp -.95169215E+03
+#
+#
+#PtCu-OH-new-added-20241210 20
+fixOHML=0.1-PtCuO-O-removed-random.142.67.91.6.1890-repPtWithS.2.vasp -.66496533E+03
+fixOHML=0.1-PtCu-random.28.26.85.1937-repPtWithS.5.vasp -.53400582E+03
+fixOHML=0.1-PtCu-random.53.29.91.1928-repPtWithS.5.vasp -.57387675E+03
+fixOHML=0.1-PtCu-random.86.11.98.1939-repPtWithS.6.vasp -.56123567E+03
+fixOHML=0.1-PtCu-random.101.35.85.1928-repPtWithS.5.vasp -.56203608E+03
+fixOHML=0.1-PtCu-random.126.30.71.1947-repPtWithS.4.vasp -.46955383E+03
+fixOHML=0.1-PtCu-random.143.55.97.1896-repPtWithS.5.vasp -.68606598E+03
+fixOHML=0.1-PtCu-random.166.26.78.1944-repPtWithS.5.vasp -.49904369E+03
+fixOHML=0.1-PtCu-random.177.29.87.1932-repPtWithS.5.vasp -.55583233E+03
+fixOHML=0.1-PtCu-random.190.49.91.1908-repPtWithS.5.vasp -.63523319E+03
+fixOHML=0.2-PtCuO-O-removed-random.161.53.92.1.1903-repPtWithS.7.vasp -.67445848E+03
+fixOHML=0.2-PtCuO-O-removed-random.185.36.71.3.1941-repPtWithS.5.vasp -.49641889E+03
+fixOHML=0.2-PtCu-random.64.27.90.1931-repPtWithS.10.vasp -.61179955E+03
+fixOHML=0.2-PtCu-random.147.76.94.1878-repPtWithS.9.vasp -.78123991E+03
+fixOHML=0.3-PtCuO-O-removed-random.180.56.68.7.1924-repPtWithS.6.vasp -.55389309E+03
+fixOHML=0.3-PtCu-random.13.48.80.1920-repPtWithS.14.vasp -.67169991E+03
+fixOHML=0.3-PtCu-random.194.44.67.1937-repPtWithS.11.vasp -.56010989E+03
+fixOHML=0.3-PtCu-random.143.55.97.1896-repPtWithS.14.vasp -.77677508E+03
+fixOHML=0.4-PtCuO-O-removed-random.12.71.77.2.1900-repPtWithS.10.vasp -.68691610E+03
+fixOHML=0.4-PtCuO-O-removed-random.47.46.82.6.1920-repPtWithS.9.vasp -.62258615E+03
+# 
+#PtCu-OH-new-added-20241213 20
+fixOHML=0.1-PtCu-random.194.44.67.1937-repPtWithS.3.vasp -.48043877E+03
+fixOHML=0.1-PtCuO-O-removed-random.10.90.85.2.1873-repPtWithS.2.vasp -.70954228E+03
+fixOHML=0.1-PtCuO-O-removed-random.90.44.96.6.1908-repPtWithS.4.vasp -.63696222E+03
+fixOHML=0.1-PtCu-random.112.59.65.1924-repPtWithS.3.vasp -.52158101E+03
+fixOHML=0.1-PtCu-random.147.76.94.1878-repPtWithS.4.vasp -.73115256E+03
+fixOHML=0.1-PtCu-random.197.31.83.1934-repPtWithS.5.vasp -.53848536E+03
+fixOHML=0.1-PtCu-random.148.38.78.1932-repPtWithS.4.vasp -.52614567E+03
+fixOHML=0.1-PtCu-random.12.66.65.1917-repPtWithS.3.vasp -.54259839E+03
+fixOHML=0.1-PtCu-random.192.95.93.1860-repPtWithS.3.vasp -.76773739E+03
+fixOHML=0.1-PtCu-random.195.73.90.1885-repPtWithS.3.vasp -.68692087E+03
+fixOHML=0.2-PtCu-random.163.71.58.1919-repPtWithS.5.vasp -.54404441E+03
+fixOHML=0.2-PtCu-random.77.50.62.1936-repPtWithS.7.vasp -.51679366E+03
+fixOHML=0.2-PtCu-random.37.56.44.1948-repPtWithS.5.vasp -.42728914E+03
+fixOHML=0.2-PtCu-random.131.95.85.1868-repPtWithS.6.vasp -.76170228E+03
+fixOHML=0.2-PtCu-random.70.29.89.1930-repPtWithS.10.vasp -.61337653E+03
+fixOHML=0.2-PtCu-random.169.38.92.1918-repPtWithS.11.vasp -.66898366E+03
+fixOHML=0.2-PtCu-random.182.85.76.1887-repPtWithS.4.vasp -.66822858E+03
+fixOHML=0.2-PtCu-random.73.76.85.1887-repPtWithS.5.vasp -.69193684E+03
+fixOHML=0.2-PtCu-random.135.68.81.1899-repPtWithS.7.vasp -.67030643E+03
+fixOHML=0.2-PtCu-random.81.49.75.1924-repPtWithS.5.vasp -.55365487E+03
